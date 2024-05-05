@@ -1,0 +1,74 @@
+[
+    {
+        "Id_ciudad": 1,
+        "id_pais": 1,
+        "nombre": "Madrid",
+        "coordenadas": {
+            "latitud": 40.4168,
+            "longitud": -3.7038
+        }
+    },
+    {
+        "Id_ciudad": 2,
+        "id_pais": 1,
+        "nombre": "Valencia",
+        "coordenadas": {
+            "latitud": 39.4699,
+            "longitud": -0.3763
+        }
+    },
+    {
+        "Id_ciudad": 3,
+        "id_pais": 1,
+        "nombre": "Sevilla",
+        "coordenadas": {
+            "latitud": 37.3891,
+            "longitud": -5.9845
+        }
+    },
+    {
+        "Id_ciudad": 4,
+        "id_pais": 2,
+        "nombre": "Paris",
+        "coordenadas": {
+            "latitud": 48.8566,
+            "longitud": 2.3522
+        }
+    },
+    {
+        "Id_ciudad": 5,
+        "id_pais": 2,
+        "nombre": "Marsella",
+        "coordenadas": {
+            "latitud": 43.2965,
+            "longitud": 5.3698
+        }
+    },
+    {
+        "Id_ciudad": 6,
+        "id_pais": 3,
+        "nombre": "Roma",
+        "coordenadas": {
+            "latitud": 41.9028,
+            "longitud": 12.4964
+        }
+    },
+    {
+        "Id_ciudad": 7,
+        "id_pais": 3,
+        "nombre": "Milan",
+        "coordenadas": {
+            "latitud": 45.4642,
+            "longitud": 9.19
+        }
+    },
+    {
+        "Id_ciudad": 8,
+        "id_pais": 3,
+        "nombre": "Napoles",
+        "coordenadas": {
+            "latitud": 40.8518,
+            "longitud": 14.2681
+        }
+    }
+]
